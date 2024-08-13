@@ -5,3 +5,5 @@
 Start project
 
 ```npm install react```
+
+test regist 2
